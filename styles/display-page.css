@@ -11,6 +11,7 @@ main {
 
 .centered {
 	text-align: center;
+	height: 200px;
 }
 
 .green {
@@ -29,8 +30,8 @@ main {
 	background-color: black;
 }
 
-.yellow {
-	background-color: yellow;
+.orange {
+	background-color: orange;
 }
 
 .box {
